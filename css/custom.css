@@ -5,7 +5,7 @@ h1, h2, h3, h4, h5 {
     color: white !important;
 }
  #home h1 {
-     padding-top: 10%
+     padding-top: 10%;
  }
 
 p {
@@ -239,23 +239,10 @@ i {
     color: white !important;
 }
 
-
-.fa-1x {
-    font-size: 1.5rem;
-    }
-    .navbar-toggler.toggler-example {
-    cursor: pointer;
-    }
-    .dark-blue-text {
-    color: #0A38F5;
-    }
-    .dark-pink-text {
-    color: #AC003A;
-    }
-    .dark-amber-text {
-    color: #ff6f00;
-    }
-    .dark-teal-text {
-    color: #004d40;
-    }
+#home #logo {
+    width: 10%;
+    float: left;
+    margin-left: 5%;
+    padding-top: 2%;
+}
 
