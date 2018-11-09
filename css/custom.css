@@ -1,7 +1,6 @@
 
 h1, h2, h3, h4, h5 {
     font-family: 'Rokkitt', serif !important;
-    /* text-align: center; */
     color: white !important;
 }
  #home h1 {
@@ -19,7 +18,6 @@ span {
 
 #home {
     text-align: center;
-    /* padding-top: 200px; */
     background-image: url('../images/bg_header.jpg');
     background-position: center;
     background-size: cover;
@@ -32,7 +30,6 @@ img {
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
-    /* height: 50% !important; */
 }
 
 .btn {
@@ -96,8 +93,9 @@ i {
 
 #velo {
     background-image: url('../images/1200.jpeg');
-    width: 100%;
+    width: 120%;
     background-size: cover;
+    padding-bottom: 15%;
 }
 
 #picture {
@@ -247,9 +245,9 @@ i {
 }
 
 #photos {
-    margin-top: -4%;
+    margin-top: -3%;
     padding-top: 5%;
-    padding-bottom: 5%;
+    padding-bottom: 3%;
 }
 #history {
     margin-bottom: -2%;
@@ -289,3 +287,8 @@ i {
     float: left;
     font-weight: bold;
 }
+/* 
+#blog {
+    padding-bottom: 50%;
+} */
+
