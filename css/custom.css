@@ -119,10 +119,11 @@ i {
 }
 
 #blue2{
-   background-color:#d2c7ff48;
+   background-color:#47c3de;
+   opacity: 0.7;
    max-height:auto;
-   width:150px;
-   padding-bottom: 2%;
+   width:100px;
+   /* padding-bottom: 2%; */
 }
 
 
@@ -250,7 +251,7 @@ i {
     padding-bottom: 3%;
 }
 #history {
-    margin-bottom: -2%;
+    margin-bottom: -5%;
 }
 
 .two {
@@ -287,7 +288,10 @@ i {
     float: left;
     font-weight: bold;
 }
-@media (max-width: 640px) {
+
+/* Telephone mobile */
+
+    @media (max-width: 640px) {
     .navbar-toggler {
         margin-top: 13%;
     }
